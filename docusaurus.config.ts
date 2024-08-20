@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
+  title: 'AfyaMsafiri',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -74,7 +74,7 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialsidebar',
+          sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Tutorial',
         },
