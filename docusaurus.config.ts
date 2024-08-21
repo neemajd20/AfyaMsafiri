@@ -74,7 +74,8 @@ const config: Config = {
       items: [
         {
 
-          type: 'documentationSidebar',
+          type: 'docSidebar',
+          sidebarId:'defaultSidebar', 
           position: 'left',
           label: 'Documentation',
         },
