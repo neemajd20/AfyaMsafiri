@@ -40,7 +40,7 @@ const sidebars: SidebarsConfig = {
         items: [
           'AfyaMsafiri-For-Travelers/Accessing-afyaMsafiri-Application',
           'AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Arrivals-Form',
-          ' AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Derpature-Form',
+          ' AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Departure-Form',
           ' AfyaMsafiri-For-Travelers/Booking-For-Yellow-Fever-Vaccination',
           'AfyaMsafiri-For-Travelers/Request-For-Card-Replacement'
        ],

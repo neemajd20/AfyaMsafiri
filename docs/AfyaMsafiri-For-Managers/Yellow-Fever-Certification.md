@@ -1,5 +1,5 @@
 ---
-title: Yellow-Fever-Certificate
+title: Yellow-Fever-Certification
 sidebar_position: 3
 ---
 
