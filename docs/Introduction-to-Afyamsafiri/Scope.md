@@ -1,5 +1,6 @@
 ---
-title: 1.4 Scope
+title: Scope
+sidebar_position: 4
 ---
 
 ## This Guide is intended for three types of users:

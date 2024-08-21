@@ -1,5 +1,6 @@
 ---
-title: 1.2. Rationale
+title: Rationale
+sidebar_position: 2
 ---
 
 ## 1.2. Rationale

@@ -1,5 +1,6 @@
 ---
-title: 1.3 Objectives
+title: Objectives
+sidebar_position: 3
 ---
 
 ## This Guide is intended for three types of users which are:

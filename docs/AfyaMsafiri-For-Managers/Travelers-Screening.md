@@ -1,5 +1,6 @@
 ---
-title: 4.2 Travelers Screening
+title: Travelers-Screening
+sidebar_position: 2
 ---
 
 Select the activity to be undertaken, starting with Primary Screening, Secondary Screening, Sample Collection, and Providing Results (Figure ...).

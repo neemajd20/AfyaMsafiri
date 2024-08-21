@@ -1,5 +1,6 @@
 ---
-title: 3.2. Filling Travelers Surveillance Arrival Form
+title: Filling-Travelers-Surveillance-Arrival-Form
+sidebar_position: 2
 ---
 
 The arrival form is filled by international travelers.

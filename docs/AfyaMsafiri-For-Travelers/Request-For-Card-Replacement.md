@@ -1,5 +1,6 @@
 ---
-title: 3.5. Request for card replacement
+title: Request-For-Card-Replacement
+sidebar_position: 5
 ---
 
 ### Step 1

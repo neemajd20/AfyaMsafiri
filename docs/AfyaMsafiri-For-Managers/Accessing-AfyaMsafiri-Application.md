@@ -1,5 +1,6 @@
 ---
-title: Accessing afyamsafiri application
+title: Accessing-AfyaMsafiri-Application
+sidebar_position: 1
 ---
 
 The Afyamsafiri system for managers is used by Port Health Officers (PHOs) to perform surveillance activities at the point of entry. They are responsible for screening all travelers who enter or leave the country. Port Health Officers record travelers' screening information, vaccination information together with the provision of certificates, and implementation reports (daily and weekly). To access the system use the following link: [https://afyamsafiri-admin.moh.go.tz](https://afyamsafiri-admin.moh.go.tz).

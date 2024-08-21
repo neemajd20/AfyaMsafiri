@@ -1,5 +1,6 @@
 ---
-title: 3.4. Booking for Yellow Fever Vaccination
+title: Booking-For-Yellow-Fever-Vaccination
+sidebar_position: 4
 ---
 
 ### Step 1

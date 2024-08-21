@@ -69,12 +69,12 @@ const config: Config = {
       title: 'Home',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'static/img/Picture0 - Copy.svg',
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+
+          type: 'documentationSidebar',
           position: 'left',
           label: 'Documentation',
         },

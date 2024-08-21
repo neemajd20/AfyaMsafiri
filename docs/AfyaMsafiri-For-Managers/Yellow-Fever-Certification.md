@@ -1,5 +1,6 @@
 ---
-title: 4.3. Yellow Fever Certificate
+title: Yellow-Fever-Certificate
+sidebar_position: 3
 ---
 
 - Step 1: Open a web browser

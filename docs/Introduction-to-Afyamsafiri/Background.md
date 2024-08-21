@@ -1,5 +1,6 @@
 ---
-title: 1.1. Background
+title: Background
+sidebar_position: 1
 ---
 
 ## 1.1. Background

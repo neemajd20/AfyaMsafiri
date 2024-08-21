@@ -1,5 +1,6 @@
 ---
-title: 3.1. Accessing AfyaMsafiri Application
+title: Accessing-afyaMsafiri-Application
+sidebar_position: 1
 ---
 
 # Travelers Information

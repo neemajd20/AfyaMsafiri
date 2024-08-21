@@ -1,5 +1,6 @@
 ---
-title: 2.2. System Components
+title: System-Components
+sidebar_position: 2
 ---
 
 ## 2.2. System Components
