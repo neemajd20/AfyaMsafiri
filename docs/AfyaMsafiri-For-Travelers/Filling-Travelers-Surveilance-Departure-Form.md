@@ -1,5 +1,5 @@
 ---
-id:  AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Departure-Form
+id: Filling-Travelers-Surveilance-Departure-Form
 title: Filling-Travelers-Surveillance-Departure-Form
 sidebar_position: 3
 ---

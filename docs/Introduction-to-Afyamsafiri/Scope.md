@@ -1,5 +1,5 @@
 ---
-id: Introduction-to-Afyamsafiri/Scope
+id: Scope
 title: Scope
 sidebar_position: 4
 ---

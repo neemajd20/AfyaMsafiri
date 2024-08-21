@@ -1,5 +1,5 @@
 ---
-id: AfyaMsafiri-For-Travelers/Request-For-Card-Replacement 
+id: Request-For-Card-Replacement 
 title: Request-For-Card-Replacement
 sidebar_position: 5
 ---

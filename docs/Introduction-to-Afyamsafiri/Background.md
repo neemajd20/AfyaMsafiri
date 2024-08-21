@@ -1,5 +1,5 @@
 ---
-id: Introduction-to-Afyamsafiri/Background
+id: Background
 title: Background
 sidebar_position: 1
 ---
