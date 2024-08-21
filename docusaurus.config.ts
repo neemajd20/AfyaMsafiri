@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'AfyaMsafiri',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'USER GUIDE FOR ELECTRONIC SCREENING OF TRAVELERS AND PUBLIC HEALTH EVENTS AT POINTS OF ENTRY ',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
