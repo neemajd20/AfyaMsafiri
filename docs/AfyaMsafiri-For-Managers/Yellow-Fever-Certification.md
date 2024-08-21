@@ -1,4 +1,5 @@
 ---
+id: AfyaMsafiri-For-Managers/Yellow-Fever-Certification
 title: Yellow-Fever-Certification
 sidebar_position: 3
 ---

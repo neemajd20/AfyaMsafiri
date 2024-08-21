@@ -1,4 +1,5 @@
 ---
+id: Introduction-to-Afyamsafiri/Objectives
 title: Objectives
 sidebar_position: 3
 ---

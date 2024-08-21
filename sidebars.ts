@@ -39,10 +39,10 @@ const sidebars: SidebarsConfig = {
         label: 'AfyaMsafiri For Travelers',
         items: [
           'AfyaMsafiri-For-Travelers/Accessing-afyaMsafiri-Application',
+          'AfyaMsafiri-For-Travelers/Booking-For-Yellow-Fever-Vaccination',
           'AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Arrivals-Form',
-          ' AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Departure-Form',
-          ' AfyaMsafiri-For-Travelers/Booking-For-Yellow-Fever-Vaccination',
-          'AfyaMsafiri-For-Travelers/Request-For-Card-Replacement'
+          'AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Departure-Form',
+          'AfyaMsafiri-For-Travelers/Request-For-Card-Replacement',
        ],
         },
         {
@@ -50,8 +50,8 @@ const sidebars: SidebarsConfig = {
           label: 'AfyaMsafiri-For-Managers',
           items: [
             'AfyaMsafiri-For-Managers/Accessing-AfyaMsafiri-Application',
-            ' AfyaMsafiri-For-Managers/Travelers-Screening',
-            ' AfyaMsafiri-For-Managers/Yellow-Fever-Certification',
+            'AfyaMsafiri-For-Managers/Travelers-Screening',
+            'AfyaMsafiri-For-Managers/Yellow-Fever-Certification',
           ],
         }
         ],

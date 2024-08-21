@@ -1,4 +1,5 @@
 ---
+id: AfyaMsafiri-For-Managers/Travelers-Screening
 title: Travelers-Screening
 sidebar_position: 2
 ---
