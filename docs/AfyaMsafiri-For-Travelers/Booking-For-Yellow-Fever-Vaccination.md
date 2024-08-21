@@ -1,6 +1,6 @@
 ---
 id: Booking-For-Yellow-Fever-Vaccination
-title: Booking-For-Yellow-Fever-Vaccination
+title: Booking For Yellow Fever Vaccination
 sidebar_position: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: Request-For-Card-Replacement 
-title: Request-For-Card-Replacement
+title: Request For Card Replacement
 sidebar_position: 5
 ---
 

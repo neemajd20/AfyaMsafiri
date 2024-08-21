@@ -1,6 +1,6 @@
 ---
 id: Travelers-Screening
-title: Travelers-Screening
+title: Travelers Screening
 sidebar_position: 2
 ---
 

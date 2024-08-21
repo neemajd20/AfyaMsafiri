@@ -1,6 +1,6 @@
 ---
-id:  System-Requirement-and-Components/System-Components
-title: System-Components
+id:  System-Components
+title: System Components
 sidebar_position: 2
 ---
 

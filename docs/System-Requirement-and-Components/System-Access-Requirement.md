@@ -1,6 +1,6 @@
 ---
-id:  System-Requirement-and-Components/System-Access-Requirement
-title: System-Access-Requirement
+id:  System-Access-Requirement
+title: System Access Requirement
 sidebar_position: 1
 ---
 

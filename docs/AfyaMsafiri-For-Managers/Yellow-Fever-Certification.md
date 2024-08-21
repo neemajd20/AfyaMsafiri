@@ -1,6 +1,6 @@
 ---
 id: Yellow-Fever-Certification
-title: Yellow-Fever-Certification
+title: Yellow Fever Certification
 sidebar_position: 3
 ---
 

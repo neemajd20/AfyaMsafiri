@@ -1,6 +1,6 @@
 ---
 id: Accessing-afyaMsafiri-Application
-title: Accessing-afyaMsafiri-Application
+title: Accessing afyaMsafiri Application
 sidebar_position: 1
 ---
 
