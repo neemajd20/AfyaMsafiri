@@ -18,10 +18,10 @@ const sidebars: SidebarsConfig = {
     type: 'category',
     label: 'Introduction to AfyaMsafiri',
     items: [
-      'Background',
-      'Rationale',
-      'Objectives',
-      'Scope',
+      'Introduction-to-Afyamsafiri/Background',
+      'Introduction-to-Afyamsafiri/Rationale',
+      'Introduction-to-Afyamsafiri/Objectives',
+      'Introduction-to-Afyamsafiri/Scope',
     ],
      },
     {
@@ -29,8 +29,8 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'System Requirement and Components',
       items: [
-        'System-Access-Requirement',
-        'System-Components',
+        'System-Requirement-and-Components/System-Access-Requirement',
+        'System-Requirement-and-Components/System-Components',
       ],
        },
        {
@@ -38,13 +38,22 @@ const sidebars: SidebarsConfig = {
         type: 'category',
         label: 'AfyaMsafiri For Travelers',
         items: [
-          'Accessing-afyaMsafiri-Application',
-          'Filling-Travelers-Surveillance-Arrival-Form',
-          'Filling-Travelers-Surveillance-Departure-Form',
-          'Booking-For-Yellow-Fever-Vaccination',
-          'Request-For-Card-Replacement'
+          'AfyaMsafiri-For-Travelers/Accessing-afyaMsafiri-Application',
+          'AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Arrivals-Form',
+          ' AfyaMsafiri-For-Travelers/Filling-Travelers-Surveilance-Derpature-Form',
+          ' AfyaMsafiri-For-Travelers/Booking-For-Yellow-Fever-Vaccination',
+          'AfyaMsafiri-For-Travelers/Request-For-Card-Replacement'
        ],
         },
+        {
+          type: 'category',
+          label: 'AfyaMsafiri-For-Managers',
+          items: [
+            'AfyaMsafiri-For-Managers/Accessing-AfyaMsafiri-Application',
+            ' AfyaMsafiri-For-Managers/Travelers-Screening',
+            ' AfyaMsafiri-For-Managers/Yellow-Fever-Certification',
+          ],
+        }
         ],
         }
     
