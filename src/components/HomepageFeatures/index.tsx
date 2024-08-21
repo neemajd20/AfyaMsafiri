@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Use',
-    Svg: require('static/img/Picture0 - Copy.svg').default,
+    Svg: require('static/img/Picture0-Copy.svg').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Ministry of Health',
-    Svg: require('static/img/Picture0 - Copy.svg').default,
+    Svg: require('static/img/Picture0-Copy.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
