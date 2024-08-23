@@ -26,7 +26,7 @@ Click “Place a booking” and the Yellow Fever Card Replacement Form will be d
 Fill in the Yellow Fever Vaccination form, which consists of two main sections: Personal Details and Clinical Assessment, as shown in the figure below. Once done filling in the form appropriately, place your booking by clicking the submit button, and you will receive a notification via email about the vaccination.
 
 _Figure: Steps to book Yellow Fever vaccination_
-![alt text](../../static/img/Picture6.png)
+![alt text](<../../static/img/steps to book.png>)
 
 ### Step 8
 - Click “submit” to save information. If the “submit button” is not active, review the responses and ensure all the required fields marked with an asterisk sign (*) are completed.
@@ -41,11 +41,10 @@ _Figure: Steps to book Yellow Fever vaccination_
 - Click the National Emblem to go back to the home page.
 
 _Figure: Form for filling in details for Yellow Fever booking._
-![alt text](../../static/img/Picture7.png)
-![alt text](../../static/img/Picture8.png)
+![alt text](<../../static/img/form for filling in details.png>)
+![alt text](<../../static/img/figure 2.png>)
 _Figure 3.2.5: Screenshot of traveler’s form completion notice (add instruction tick here)_
-![alt text](../../static/img/Picture9.png)
-
+![alt text](<../../static/img/completion notice.png>)
 _Screenshot: Form completion notice and information page (click here to edit)_
 
 _Click the National Emblem (picha) to go back to the home page._

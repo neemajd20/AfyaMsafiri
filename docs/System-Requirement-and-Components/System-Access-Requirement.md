@@ -12,17 +12,17 @@ Afyamsafiri application can be accessed through a computing device such as a com
 ### Figure 1: Example of computing devices that can be used to access Afyamsafiri
 
 -Laptop  
-![alt text](../../static/img/Picture0.1.png)
+![alt text](../../static/img/laptop.png)
 -Tablet
-![alt text](../../static/img/Picture0.2.png)
+![alt text](../../static/img/tablet.png)
 -Phone
-![alt text](../../static/img/Picture0.3.png)
+![alt text](../../static/img/phone.png)
 
 ### Figure 2: Recommended web browsers that can be used to access Afyamsafiri
 
 -Chrome
-![alt text](../../static/img/Picture0.4.png)
+![alt text](../../static/img/Chrome.png)
 -Firefox
-![alt text](../../static/img/Picture0.5.png)
+![alt text](../../static/img/Firefox.png)
 -Microsoft Edge
-![alt text](../../static/img/Picture0.6.png)
+![alt text](../../static/img/M.Edge.png)

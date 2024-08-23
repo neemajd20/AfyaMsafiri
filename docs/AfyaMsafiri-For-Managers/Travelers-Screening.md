@@ -7,7 +7,7 @@ sidebar_position: 2
 Select the activity to be undertaken, starting with Primary Screening, Secondary Screening, Sample Collection, and Providing Results (Figure ...).
 
 Figure 4.2e: Screening Steps That a Traveler May Pass Through
-![alt text](../../static/img/Picture17.png)
+![alt text](<../../static/img/screening steps travelers may pass.png>)
 
 ### 4.2.1. Primary Screening
 
@@ -20,8 +20,8 @@ This process involves physical observation and reviewing the details that were s
 - Step 3: Make a decision—either subject the traveler to secondary screening or allow them to proceed with travel based on physical observation and the traveler's information in the system.
 
 Figure 4.2.1: Primary Screening Process for Travelers and Decisions to Be Made
-![alt text](../../static/img/Picture18.png)
-![alt text](../../static/img/Picture19.png)
+![alt text](<../../static/img/screening process for travelers.png>)
+![alt text](<../../static/img/primary screening process2.png>)
 
 ### 4.2.2. Secondary Screening
 
@@ -36,8 +36,8 @@ This process involves responding to risk exposure questions, which can be answer
 - Step 5: Submit the information by clicking the “commit changes” button.
 
 Figure 4.2.2a: Secondary Screening Form
-![alt text](../../static/img/Picture20.png)
-![alt text](../../static/img/Picture21.png)
+![alt text](<../../static/img/secondary screening.png>)
+![alt text](<../../static/img/secondary screening2.png>)
 
 ### 4.2.3. Sample Collection
 
@@ -55,8 +55,7 @@ In case there is a need for sample collection, follow the steps below:
 - Step 5: Click the “commit changes” button to submit the information and proceed to provide results.
 
 Figure 4.2.2b: Recording Sample Details
-![alt text](../../static/img/Picture22.png)
-
+![alt text](<../../static/img/recording sample details.png>)
 ### 4.2.4. Record Results and Provide Certificates
 
 #### Steps for Recording Results and Providing Certificates:
@@ -66,7 +65,7 @@ Figure 4.2.2b: Recording Sample Details
 - Step 3: Click to fill the test results into the system.
 
 Figure 4.2.2c: Filling in Test Results
-![alt text](../../static/img/Picture23.png)
+![alt text](<../../static/img/filling in test result.png>)
 
 - Step 4: Click the “commit changes” button to submit the test results.
   
@@ -75,10 +74,10 @@ Figure 4.2.2c: Filling in Test Results
 - Step 5: Click the “Certificate” button on the right side of the screen to access the certificate.
 
 Figure: Getting the Certificate for Test Result
-![alt text](../../static/img/Picture24.png)
+![alt text](<../../static/img/getting certificate for test result.png>)
 
 Figure: Certificate Generated Based on the Test Details That Were Recorded
-![alt text](../../static/img/Picture25.png)
+![alt text](../../static/img/certificate.png)
 
 - Step 6: Click “download certificate” to save as PDF or print.
 

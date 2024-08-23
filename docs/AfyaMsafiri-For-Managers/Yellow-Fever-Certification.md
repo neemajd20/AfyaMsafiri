@@ -48,7 +48,7 @@ NB: In case of “YES” response in the clinical assessment, the vaccination pa
 - Step 7: Enter passport number or ID and click search
 - Step 8: Click to fill all fields in the yellow fever vaccination form on demographic information and clinical information.
 - Step 9: Click “submit” to save the information.
-![alt text](../../static/img/Picture27.png)
+![alt text](../../static/img/figure3.png)
 Figure: Form for filling in details for yellow fever booking placing a book
 
 NB: If the “submit button” is not active – review the responses and ensure all the required fields marked with an asterisk sign (*) are completed.
@@ -58,7 +58,7 @@ NB: If the “submit button” is not active – review the responses and ensure
 NB: Filled details will be saved only when they see form completion notice. If you click “close” the information will be lost.
 
 Figure 3.2.5: Screenshot of traveler’s form completion notice (add instruction tick here)
-![alt text](../../static/img/Picture28.png)
+![alt text](<../../static/img/completion notice3.png>)
 
 Screenshot: Form completion notice and information page (click here to edit)
 
@@ -75,26 +75,25 @@ Screenshot: Form completion notice and information page (click here to edit)
 
 
 Figure 4.3a: Selecting yellow fever menu to attend a client who booked for vaccination
-![alt text](../../static/img/Picture29.png)
+![alt text](<../../static/img/selecting yellow fever menu.png>)
 
 ### Step 2:
 Select client from the list by clicking ellipsis button (“...”) for the desired client (Figure 4.3b)
 
 Figure 4.3b: Accessing a client from the list
-![alt text](../../static/img/Picture30.png)
+![alt text](<../../static/img/accessing client from list.png>)
 
 ### Step 3:
 Verify clinical assessment details as was filled by the client during booking. Make necessary changes if required (Figure 4.3c)
 
 Figure 4.3c: Clinical assessment questions
-![alt text](../../static/img/Picture31.png)
+![alt text](<../../static/img/clinical assessinment question.png>)
 
 ### Step 4:
 Fill in the details about the vaccine given to the client, including the date of vaccination, vaccine batch number, professional status of the vaccinator, vaccine manufacturer, and the validity of the vaccine (Figure 4.3d). Once done, submit the information by clicking the “commit changes” button, and the system will generate the International Certificate of Vaccination or Prophylaxis (ICVP).
 
 Figure 4.3e: Filling in vaccination information
-![alt text](../../static/img/Picture32.png)
-
+![alt text](<../../static/img/filling vaccination info..png>)
 ### Step 5:
 Generate the certificate by clicking the “View certificate” button seen on the right of the screen. The certificate contains details about the client including names, passport or travel document number, date of issue, and client's signature.
 
@@ -102,9 +101,8 @@ Generate the certificate by clicking the “View certificate” button seen on t
 Print the vaccination card and provide it to the client after confirmation of payments has been done.
 
 Figure 4.3f: Opening certificate
-![alt text](../../static/img/Picture33.png)
-![alt text](../../static/img/Picture34.png)
-
+![alt text](<../../static/img/opening certificate1.png>)
+![alt text](<../../static/img/opening certificate2.png>)
 ## Other Vaccination Information
 
 To add other vaccination information to the generated ICVP, follow the steps below:
@@ -115,7 +113,7 @@ To add other vaccination information to the generated ICVP, follow the steps bel
 - Step 4: Save the information so that it is attached to the ICVP.
 
 Figure 4.3g: Form for filling in the details for other vaccination
-![alt text](../../static/img/Picture35.png)
+![alt text](<../../static/img/form for filling in details vaccination.png>)
 
 ---
 

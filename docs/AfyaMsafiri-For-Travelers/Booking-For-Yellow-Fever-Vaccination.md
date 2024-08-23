@@ -37,11 +37,11 @@ Fill in the Yellow Fever Vaccination form, which consists of two main sections: 
 NB: For emergency booking on a non-vaccination day, you will be required to choose future dates as emergency vaccination by declaring an emergency.
 
 _Figure: Steps to book Yellow Fever Vaccination_
-![alt text](../../static/img/Picture2.png)
+![alt text](<../../static/img/steps to book2.png>)
 
 _Figure: Form for filling in details for Yellow Fever booking._
-![alt text](../../static/img/Picture3.png)
-![alt text](../../static/img/Picture4.png)
+![alt text](<../../static/img/form for filling in details2.png>)
+![alt text](../../static/img/figure2.2.png)
 
 NB: If the “submit button” is not active, review the responses and ensure all the required fields marked with an asterisk sign (*) are completed.
 
@@ -50,5 +50,5 @@ NB: If the “submit button” is not active, review the responses and ensure al
 After filling all the required information, complete the declaration by clicking (✓) and then click “complete”. Filled details will be saved only when you see the form completion notice. If you click “close,” the information will be lost.
 
 _Figure 3.2.5: Screenshot of traveler’s form completion notice (add instruction tick here)_
-![alt text](../../static/img/Picture5.png)
+![alt text](<../../static/img/completion notice2.png>)
 _Screenshot: Form completion notice and information page (click here to edit)_

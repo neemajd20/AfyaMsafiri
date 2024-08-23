@@ -25,4 +25,4 @@ Traveler from one location within the country to another location (Region/Distri
 5. Select the required option (domestic arrival / domestic departure / international departure / international arrival / yellow fever vaccination).
 
 ### Figure 1:
-![alt text](../../static/img/Picture1.png)
+![alt text](../../static/img/figure1.png)
