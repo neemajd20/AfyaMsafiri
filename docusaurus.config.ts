@@ -68,7 +68,7 @@ const config: Config = {
     navbar: {
       title: 'Home',
       logo: {
-        alt: ' Logo',
+        
         src: 'static/img/favicon.ico',
       },
       items: [
