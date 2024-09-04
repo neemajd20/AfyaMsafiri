@@ -5,15 +5,7 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
-  padding-top: 100px;
-  background: linear-gradient(
-    180deg,
-    #b8c1ec,
-    #cdbde6,
-    #ddbbdb,
-    #e9bacf,
-    #eebbc3
-  );
+  
 }
 
 .featureSvg {
