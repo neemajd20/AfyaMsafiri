@@ -3,6 +3,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import WaveBottomShapeDivider from "@site/src/components/HomepageFeatures/WaveBottomShapeDivider";
+import WaveTopShapeDivider from "@site/src/components/HomepageFeatures/WaveTopShapedivider";
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
@@ -31,9 +33,9 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-      
+      <WaveTopShapeDivider />
         <HomepageFeatures />
-        
+        <WaveBottomShapeDivider />
       </main>
     </Layout>
   );
