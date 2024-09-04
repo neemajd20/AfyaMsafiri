@@ -43,7 +43,7 @@ _Figure: Form for filling in details for Yellow Fever booking._
 ![alt text](<../../static/img/form for filling in details2.png>)
 ![alt text](../../static/img/figure2.2.png)
 
-NB: If the “submit button” is not active, review the responses and ensure all the required fields marked with an asterisk sign (*) are completed.
+ > If the “submit button” is not active, review the responses and ensure all the required fields marked with an asterisk sign (*) are completed.!
 
 ### 3.4.1. Declaration of Filled Information
 

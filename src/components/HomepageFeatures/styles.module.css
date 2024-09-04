@@ -5,6 +5,15 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  padding-top: 100px;
+  background: linear-gradient(
+    180deg,
+    #6b7edf,
+    #4d5ad2,
+    #4945ce,
+    #5e67c7,
+    #3c54da
+  );
   
 }
 
@@ -21,11 +30,11 @@
 .title {
   font-size: 2.5rem;
   margin-bottom: 15px;
-  color: #333;
+  color: #171717;
 }
 
 .description {
   font-size: 1.2rem;
-  color: #555;
+  color: #3a3939;
   line-height: 1.6;
 }

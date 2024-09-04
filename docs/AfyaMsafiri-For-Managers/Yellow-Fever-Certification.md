@@ -14,7 +14,7 @@ sidebar_position: 3
 - Step 8: Click “assess now” for clinical assessment
 - Step 9: Click to fill all fields in the pop-up window about clinical assessment (Figure 4.2.2b). 
 
-NB: In case of “YES” response in the clinical assessment, the vaccination panel will not appear.
+ > In case of “YES” response in the clinical! assessment, the vaccination panel will not appear.
 - Step 10: Click “commit changes” button to save the information.
 - Step 11: Click “vaccinate” on the vaccination panel for vaccination
 - Step 12: Click to fill all fields in the pop-up window about the vaccine (Figure 4.2.2b). 
@@ -51,11 +51,11 @@ NB: In case of “YES” response in the clinical assessment, the vaccination pa
 ![alt text](../../static/img/figure3.png)
 Figure: Form for filling in details for yellow fever booking placing a book
 
-NB: If the “submit button” is not active – review the responses and ensure all the required fields marked with an asterisk sign (*) are completed.
+ > If the “submit button” is not active – review the responses and ensure all the required fields marked with an asterisk sign (*) are completed.!
 
 - Step 10: Click (√) in the declaration note and then click “complete” to save the details.
 
-NB: Filled details will be saved only when they see form completion notice. If you click “close” the information will be lost.
+ > Filled details will be saved only when they see form completion notice. If you click “close” the information will be lost.!
 
 Figure 3.2.5: Screenshot of traveler’s form completion notice (add instruction tick here)
 ![alt text](<../../static/img/completion notice3.png>)
