@@ -91,11 +91,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Documentation',
           items: [
             {
               label: 'Documentation',
-              to: '/docs/intro',
+              to: '/docs/Background',
             },
           ],
         },
