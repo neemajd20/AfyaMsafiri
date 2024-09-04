@@ -81,7 +81,7 @@ const config: Config = {
         },
       
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/neemajd20/AfyaMsafiri.git',
           label: 'GitHub',
           position: 'right',
         },
@@ -121,7 +121,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/neemajd20/AfyaMsafiri.git',
             },
           ],
         },
