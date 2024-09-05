@@ -34,7 +34,7 @@ Fill in the Yellow Fever Vaccination form, which consists of two main sections: 
 ### Step 10
 - Click the National Emblem to go back to the home page.
 
-NB: For emergency booking on a non-vaccination day, you will be required to choose future dates as emergency vaccination by declaring an emergency.
+>For emergency booking on a non-vaccination day, you will be required to choose future dates as emergency vaccination by declaring an emergency.!
 
 _Figure: Steps to book Yellow Fever Vaccination_
 ![alt text](<../../static/img/steps to book2.png>)

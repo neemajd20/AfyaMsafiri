@@ -15,5 +15,5 @@ The system is utilized by both travelers and Port Health Authorities, and it has
 -Travelers: Both international and domestic travelers are required to submit their travel information, travel history, and health information at least 24 hours before arrival or departure.
   -Purpose: This data helps Port Health Officers prepare for the screening process and manage any logistical arrangements, especially for travelers who are unwell.
 
-For Travelers: The system is accessible over the internet using a web browser at https://afyamsafiri.moh.go.tz.
-For PoE Officers: The system is accessible over the internet using a web browser at https://afyamsafiri-admin.moh.go.tz
+>For Travelers: The system is accessible over the internet using a web browser at https://afyamsafiri.moh.go.tz.
+For PoE Officers: The system is accessible over the internet using a web browser at https://afyamsafiri-admin.moh.go.tz!

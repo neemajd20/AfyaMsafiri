@@ -4,10 +4,12 @@ title: Objectives
 sidebar_position: 3
 ---
 
-## This Guide is intended for three types of users which are:
+# Guidance for Travelers and PoE Officers
 
-1. International travelers: Use the Afyamsafiri system before and during travel to provide accurate personal information, travel history, risk exposure details, vaccination information (if required), and completing the declaration form.
+This document aims to provide guidance to travelers in a step-by-step process so as to perform self-screening, booking of port health services, and required health certificates at Points of Entry (PoE). The guide also provides directives to PoE officers on electronic screening of travelers.
 
-2. Domestic travelers: Use the Afyamsafiri system before and during travel to provide accurate personal information, travel history, risk exposure details, vaccination information (if required), and completing the declaration form.
+## Specifically, this document aims to provide guidance to PoE officers on:
 
-3. Port Health Officers: Use the Afyamsafiri system to assess, record, and report all procedures associated with screening of both international and domestic travelers. PoE officers complete the Afyamsafiri system in accordance with the guide and the SOP for entry and exit screening of public health events at PoI.
+1. Screening of travelers
+2. Provision of yellow fever vaccination
+3. Generation PoE surveillance reports
