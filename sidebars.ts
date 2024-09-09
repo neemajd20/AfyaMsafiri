@@ -14,7 +14,15 @@ const sidebars: SidebarsConfig = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   docsSidebar: [ 
      {
+      type: 'category',
+    label: 'Acronyms',
+    items: [
+      'Acronyms/Acronyms',
+       ],
+        },
 
+
+{ 
     type: 'category',
     label: 'Introduction to AfyaMsafiri',
     items: [

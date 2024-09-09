@@ -1,7 +1,7 @@
 ---
 id:  Acronyms
 title: Acronyms
-sidebar_position: 
+sidebar_position: 1
 ---
 
 
