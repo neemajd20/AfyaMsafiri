@@ -24,7 +24,7 @@
   --ifm-navbar-link-hover-color: var(--ifm-color-primary);
   --ifm-navbar-background-color: #516bd4;
 
-  --ifm-footer-link-hover-color: #f6f6f9;
+  --ifm-footer-link-hover-color: #f6f6f9f5;
 
   --ifm-blockquote-border-color: var(--ifm-color-secondary);
   --ifm-blockquote-border-left-width: 5px;
@@ -32,7 +32,7 @@
 
   --ifm-code-font-size: 95%;
 
-  --color-main-background: #e8e8f3;
+  --color-main-background: #f9f9fcf9;
   --color-link-background: #94a2df;
 
 }
